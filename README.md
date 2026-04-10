@@ -62,11 +62,12 @@ a couple **ah ha!** moments, and that we plant some new seeds of knowledge for
 you to cultivate over the next few months as you put to use what you've learned this week
 to solve real problems in your daily work.
 
-If you don't understand something, please **ask questions**! I guarantee if you
-aren't sure about something, there is at least one other person in the room
-wondering the same thing. We will do our best to cover all of the content in the
-available time, but we can absolutely slow down and expand on a particular topic
-if needed.
+> [!TIP]
+> If you don't understand something, please **ask questions**! I guarantee if you
+> aren't sure about something, there is at least one other person in the room
+> wondering the same thing. We will do our best to cover all of the content in the
+> available time, but we can absolutely slow down and expand on a particular topic
+> if needed.
 
 ## Lab Format
 
