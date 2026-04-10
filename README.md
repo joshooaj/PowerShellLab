@@ -1,7 +1,5 @@
 # PowerShell Hands-on Lab
 
-![title slide](./assets/titleslide.png)
-
 <table>
     <tr>
         <td><b>When</b></td>
@@ -26,6 +24,8 @@
 </table>
 
 ## Description
+
+![title slide](./assets/titleslide.png)
 
 This hands-on lab is based on the fourth edition of the popular book
 [Learn PowerShell in a Month of Lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches).
