@@ -30,7 +30,7 @@ jobs:
         run: marp slides.md -o site/index.html --theme theme/summit-2026.css
 
       - name: Copy assets
-        run: cp theme/*.png site/ 2>/dev/null; true
+        run: cp -r assets site/ && cp theme/*.png site/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
