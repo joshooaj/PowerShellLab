@@ -3,7 +3,6 @@
 ![title slide](./assets/titleslide.png)
 
 <table>
-    <style>td {vertical-align: top}</style>
     <tr>
         <td><b>When</b></td>
         <td>Thursday April 16, 2026 at 1:15pm</td>
