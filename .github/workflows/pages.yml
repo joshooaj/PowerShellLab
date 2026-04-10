@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - slides.md
   workflow_dispatch:
 
 permissions:
