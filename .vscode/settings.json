@@ -1,0 +1,5 @@
+{
+    "markdown.marp.themes": [
+        "./theme/summit-2026.css"
+    ]
+}
