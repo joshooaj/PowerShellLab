@@ -30,55 +30,33 @@ Gotta thank the sponsors!
 
 ---
 
-<!-- _class: centered -->
-# About Me
+# @joshooaj
 
-<div class="columns">
-<div>
+- <span class="primary">Joshua J Hendricks</span>
+  - *(call me Josh)*
+- Principal Engineer at
+  🔷 **Milestone Systems**
+- Microsoft MVP
+- Husband, and Dad to...
+  - 1 12yo girl
+  - 2 cats
+  - 4 chickens incl. a broody hen
 
-- <span class="primary">Josh Hendricks</span> (@joshooaj.com)
-- Principal engineer @
-  Milestone Systems
-- PowerShell enthusiast &
-  self-hosting nerd
-- First-year Microsoft MVP 🎉
-- First-time speaking to Onramp!
+![bg right](./assets/selfie.png)
 
-</div>
-<div>
+---
 
-![selfie](./assets/selfie.png)
+![bg](./assets/chickens.png)
 
-</div>
-</div>
-
-<!--
-SPEAKER NOTES:
-- Photo is from a short family hike on the Clarno Arch Trail in Central Oregon.
--->
 ---
 
 # What We're Doing Today
 
 ### Speed-running <span class="primary">**Learn PowerShell in a Month of Lunches**</span>
 
-- ⚡ ~8 min per topic: intro, demo, move on
+- ⚡ Avg ~10 min per topic: intro, demo, questions
 - 🎯 Mental map, not mastery
 - 📖 The book is your companion for going deeper
-
-<div class="callout secondary">
-
-### 💬 Questions welcome anytime, raise your hand, shout it out, drop it in chat
-
-</div>
-
-<!--
-SPEAKER NOTES:
-- Reassure people, this is a LOT of content in a short time
-- We're building a mental map, not deep expertise
-- The book is the companion material for going deeper
-- Emphasize that questions are welcome throughout
--->
 
 ---
 
@@ -88,20 +66,19 @@ SPEAKER NOTES:
 
 ### For Each Topic We'll...
 
-1. **Set the stage:** Why does this matter?
-2. **Demo it live:** VS Code, follow along
-3. **Highlight pitfalls:** Common gotchas
+1. **Show some slides:** Introduce concepts
+2. **Demo it live:** Run some sample code
+3. **Answer questions:** Do some pair programming
 4. **Move on:** Keep the momentum
 
 </div>
 
-<!--
-SPEAKER NOTES:
-- Explain the rhythm: slides → VS Code → slides → VS Code
-- Encourage people to follow along in their own terminal
-- Mention that the GitHub repo has all demo scripts
-- Reassure: if a topic doesn't click right away, that's totally fine, note it and revisit after the summit
--->
+<div class="callout secondary">
+
+# 💬 **Please**, ask questions!
+### There is no better time or place!
+
+</div>
 
 ---
 
@@ -136,8 +113,8 @@ SPEAKER NOTES:
 
 - **PowerShell 7+** installed (`$PSVersionTable`)
 - **VS Code** with the PowerShell extension
-- A terminal open and ready to go
-- The GitHub repo cloned: `devops-collective-inc/OnRamp-2026`
+- The GitHub repo cloned and open in VS Code:
+  [github.com/devops-collective-inc/OnRamp-2026](https://github.com/devops-collective-inc/OnRamp-2026)
 
 </div>
 
@@ -157,8 +134,6 @@ SPEAKER NOTES:
 ## The Shell & Running Commands
 
 <span class="primary-bg">Chapters 1–4</span>
-
-<span class="accent">~30 minutes</span>
 
 <!--
 SPEAKER NOTES:
@@ -326,8 +301,6 @@ SPEAKER NOTES:
 
 <span class="primary-bg">Chapters 5–6</span>
 
-<span class="accent">~15 minutes</span>
-
 <!--
 SPEAKER NOTES:
 - Short section — two foundational concepts
@@ -414,8 +387,6 @@ SPEAKER NOTES:
 ## Modules & Objects
 
 <span class="primary-bg">Chapters 7–9</span>
-
-<span class="accent">~20 minutes</span>
 
 <!--
 SPEAKER NOTES:
@@ -550,8 +521,6 @@ SPEAKER NOTES:
 
 <span class="primary-bg">Chapters 10–12</span>
 
-<span class="accent">~20 minutes</span>
-
 <!--
 SPEAKER NOTES:
 - Now we go deeper on things we've already touched
@@ -654,8 +623,6 @@ SPEAKER NOTES:
 ## Remoting, Jobs & ForEach
 
 <span class="primary-bg">Chapters 13–15</span>
-
-<span class="accent">~20 minutes</span>
 
 <!--
 SPEAKER NOTES:
@@ -763,7 +730,6 @@ SPEAKER NOTES:
 
 <span class="primary-bg">Chapters 16–22</span>
 
-<span class="accent">~40 minutes</span>
 <!--
 SPEAKER NOTES:
 - Biggest block — covers a lot of ground
@@ -1001,8 +967,6 @@ SPEAKER NOTES:
 ## Logic, Errors, Debugging & Tips
 
 <span class="primary-bg">Chapters 23–27</span>
-
-<span class="accent">~30 minutes</span>
 
 <!--
 SPEAKER NOTES:
